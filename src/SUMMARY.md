@@ -1,6 +1,8 @@
 # Summary
 
 [Introduction](./introduction.md)
+[Overview](./overview.md)
+[Automated Tools](./ready_tools.md)  
 - [Toolchain](./tool_chain.md)
   - [Download Rust](./download_rust.md)
 - [IDE](./ide.md)
