@@ -4,3 +4,4 @@ language = "en"
 multilingual = false
 src = "src"
 title = "The Rust Offline Book"
+description = "Manuals for establishing an offline environment for development in the Rust programming language."
