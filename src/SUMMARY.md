@@ -1,8 +1,16 @@
 # Summary
 
-- [Introduction](./introduction.md)
+[Introduction](./introduction.md)
+- [Toolchain](./tool_chain.md)
 - [IDE](./ide.md)
   - [Visual Studio Code](./vscode.md)
+    - [Rust-Analzyer]()
+    - [RLS]()
+    - [Recommended Extensions]()
   - [IntelliJ IDEA](./intellij_idea.md)
-- [tool-chain](./tool_chain.md)
-- [crates.io](./crates.md)
+    - [Rust Plugin]()
+    - [Recommended Plugins]()
+- [crates.io](./crates.md)  
+---
+[TODO](./todo.md)
+[Contributors](./contributors.md)
