@@ -2,6 +2,7 @@
 
 [Introduction](./introduction.md)
 - [Toolchain](./tool_chain.md)
+  - [Download Rust](./download_rust.md)
 - [IDE](./ide.md)
   - [Visual Studio Code](./vscode.md)
     - [Rust-Analzyer]()
@@ -12,5 +13,5 @@
     - [Recommended Plugins]()
 - [crates.io](./crates.md)  
 ---
-[TODO](./todo.md)
+[TODO](./todo.md)  
 [Contributors](./contributors.md)
