@@ -2,8 +2,8 @@
 
 [The Rust Offline Book](./title_page.md)
 [Introduction](./introduction.md)  
-[Overview](./overview.md)  
-[Tools](./tools.md)  
+[Steps Overview](./overview.md)  
+[Available Tools](./tools.md)  
 
 - [Offline Toolchain](./toolchain.md)  
   - [Signature Checking (Recommended)]()  
