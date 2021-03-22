@@ -12,3 +12,8 @@ This book, while aiming to support all platforms, is mainly written by me at thi
 > **CONTRIBUTION NOTICE**:  
 > As this book is open-source, feel free to create pull requests and add or extend support
 > for other platforms as well.
+
+---
+
+> **AUTHOR NOTES**:  
+> As I write this book, I am also learning what could be the simplest most effective way to achieve the goal of having to run an offline Rust environment. At this stage, it is very likely to change often. In fact, currently I find the tool `romt` to be most efficient for the job and consider building the first manuals on top of it. Although `romt` introduce its own very detailed manuals, it is my goal to bring forth the most basic and important essence for achieving this.  
