@@ -1,4 +1,4 @@
-# Overview
+# Steps Overview
 
 Installing and using Rust within an online environment is very simple. All you have to do is download, install and use the `rustup` toolchain installer which sets everything that is required for the language to run. Then, you are using an internet connection to fetch crates from `crates.io` as you compile projects.
 
