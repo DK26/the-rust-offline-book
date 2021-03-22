@@ -18,7 +18,7 @@ Also, the next tools are _required_ for the book. Download the proper versions r
 | -------- | ------------- | ----------- |
 | `romt` | A compiled version of the `romt` command line tool | [https://github.com/drmikehenry/romt/releases](https://github.com/drmikehenry/romt/releases) |
 | `git` | _Required_ by `romt` | [https://git-scm.com/downloads](https://git-scm.com/downloads) |
-| `gpg` | _Recommended_. Used by `romt` to verify the downloaded contents | [https://gnupg.org/download/index.html](https://gnupg.org/download/index.html) |  
+| `gpg` | Used by `romt` to verify the downloaded contents (_Highly Recommended_) | [https://gnupg.org/download/index.html](https://gnupg.org/download/index.html) |  
 
 > **FOR LINUX USERS**  
 > Installing the tools here in your environment may be done differently. In the future, I hope to provide a linux section.  
