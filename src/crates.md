@@ -26,9 +26,16 @@ Source Code from the ROMT project (Python):
 
 * [romt/serve.py](https://github.com/drmikehenry/romt/blob/e71f709ee9ae0d3900c66954c1e69cb620d499f1/src/romt/serve.py)
 
-Official `crates.io` repository index objects and refs on github: [https://github.com/rust-lang/crates.io-index](https://github.com/rust-lang/crates.io-index)
+Official `crates.io` repository index objects and refs on github:
+
+* [https://github.com/rust-lang/crates.io-index](https://github.com/rust-lang/crates.io-index)
 
 `git fetch https://github.com/rust-lang/crates.io-index`
 
-ROMT main file: 
-[https://github.com/drmikehenry/romt/blob/e71f709ee9ae0d3900c66954c1e69cb620d499f1/src/romt/cli.py](https://github.com/drmikehenry/romt/blob/e71f709ee9ae0d3900c66954c1e69cb620d499f1/src/romt/cli.py)
+ROMT main file:
+
+* [https://github.com/drmikehenry/romt/blob/e71f709ee9ae0d3900c66954c1e69cb620d499f1/src/romt/cli.py](https://github.com/drmikehenry/romt/blob/e71f709ee9ae0d3900c66954c1e69cb620d499f1/src/romt/cli.py)
+
+RFC 2141 for Alternative Registries
+
+* [https://github.com/rust-lang/rfcs/blob/master/text/2141-alternative-registries.md](https://github.com/rust-lang/rfcs/blob/master/text/2141-alternative-registries.md)
