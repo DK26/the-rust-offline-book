@@ -7,3 +7,4 @@ These tools will be listed here in this section of the book for convenience.
 | Tool | Source Code | Author | Language | License |  
 | ---- | ----------- | ------ | -------- | ------- |
 | [romt](https://github.com/drmikehenry/romt) | [https://github.com/drmikehenry/romt](https://github.com/drmikehenry/romt) | Michael Henry | Python | MIT |
+| [Meuse](https://github.com/mcorbin/meuse) | [https://github.com/mcorbin/meuse](https://github.com/mcorbin/meuse) | Mathieu Corbin |  Clojure | EPL 2.0
